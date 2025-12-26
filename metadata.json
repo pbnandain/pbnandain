@@ -1,0 +1,17 @@
+{
+  "name": "Hindu Network Coin Hub",
+  "short_name": "Coin Hub",
+  "description": "The official 'Work To Gather' portal for Hindu Network. Task marketplace, auctions, and secure billing.",
+  "url": "http://coin.hindunetwork.co.in/",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/fluency/512/om.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

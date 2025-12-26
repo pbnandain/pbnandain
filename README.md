@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @pbnandain
-- 👀 I’m interested in coding
-- 🌱 I’m currently working in logistics IT 
-- 💞️ I’m looking to collaborate on online sales
-- 📫 How to reach me @pbnandain
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-<!---
-pbnandain/pbnandain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/drive/1Qpj6OxBqKBWF0reTm8Ptof90klpQxxsN
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
